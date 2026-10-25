@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="筋トレ処方箋">
+  <rect width="64" height="64" rx="10" fill="#13171D"/>
+  <rect x="6" y="27" width="52" height="10" rx="2" fill="#98A2AC"/>
+  <rect x="10" y="19" width="9" height="26" rx="2.5" fill="#C8102E"/>
+  <rect x="45" y="19" width="9" height="26" rx="2.5" fill="#C8102E"/>
+  <rect x="22" y="23" width="6" height="18" rx="2" fill="#0B5FA5"/>
+  <rect x="36" y="23" width="6" height="18" rx="2" fill="#0B5FA5"/>
+</svg>
