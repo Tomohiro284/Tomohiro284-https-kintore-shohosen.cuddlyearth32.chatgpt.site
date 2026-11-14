@@ -19,7 +19,7 @@
 
 ## 公開方法
 
-mainブランチへの更新でGitHub Pages用ワークフローが実行されます。初回のみリポジトリの Settings → Pages → Source を「GitHub Actions」にしてください。
+mainブランチへの更新でGitHub Pages用ワークフローが実行され、初回はPagesを有効化して以後は自動公開します。
 
 ## 広告掲載
 
