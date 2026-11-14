@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Sitemap: https://tomohiro284.github.io/Tomohiro284-https-kintore-shohosen.cuddlyearth32.chatgpt.site/sitemap.xml
+Sitemap: https://kintore-shohosen.vercel.app/sitemap.xml
