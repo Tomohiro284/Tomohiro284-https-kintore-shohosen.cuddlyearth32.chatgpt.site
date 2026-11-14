@@ -1,0 +1,19 @@
+{
+  "name": "筋トレ処方箋",
+  "short_name": "筋トレ処方箋",
+  "description": "目的・器具・経験に合わせて筋トレメニューを計算",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#c81738",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
