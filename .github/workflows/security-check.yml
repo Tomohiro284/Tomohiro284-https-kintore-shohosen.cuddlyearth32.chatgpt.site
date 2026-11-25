@@ -1,0 +1,16 @@
+name: Public file security checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - run: node security-tools/check-release.test.mjs
+      - run: node security-tools/check-release.mjs index.html script.js style.css
+      - run: sh -n security-tools/scan-device.sh
