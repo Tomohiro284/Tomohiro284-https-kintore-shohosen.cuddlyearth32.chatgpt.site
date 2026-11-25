@@ -1,6 +1,6 @@
 # 導入範囲
 
-添付19ファイルは互換性を確認しました。現在このリポジトリには資料一式を収録していません。Python WSGI、Gunicorn、Nginx、Windows Defenderの設定は現在の静的Vercelサイトでは実行できません。また参照される ultra_guard 本体が添付に含まれていないため、サーバー用キットとしては未完成です。
+添付19ファイルは互換性を確認しました。添付19ファイルの全文を attachment-bundle.json の files に元のファイル名で収録しています。参照用であり自動実行しません。Python WSGI、Gunicorn、Nginx、Windows Defenderの設定は現在の静的Vercelサイトでは実行できません。また参照される ultra_guard 本体が添付に含まれていないため、サーバー用キットとしては未完成です。
 
 vercel.json はCSPによる外部スクリプト・接続・フレームの制限、クリックジャッキング対策、MIME判定制限、参照元情報抑制、不要な端末権限の禁止、HTTPS強制を設定します。管理パスにはnoindexヘッダーを設定します。認証の代替にはなりません。
 
