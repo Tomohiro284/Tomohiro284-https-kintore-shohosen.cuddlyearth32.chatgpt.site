@@ -4,3 +4,4 @@ upload/
 *.ps1
 *.cmd
 *.sh
+security-tools/
