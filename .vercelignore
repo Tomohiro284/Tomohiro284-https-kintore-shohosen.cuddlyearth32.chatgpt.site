@@ -1,0 +1,6 @@
+security-reference/
+upload/
+*.py
+*.ps1
+*.cmd
+*.sh
